@@ -267,3 +267,16 @@ body {
 .additional-info__languages-item {
     color: var(--secondary-text-color);
 }
+
+.fun-fact-aside {
+    position: absolute;
+    top: 50px;
+    right: 20px;
+    width: 260px;
+    padding: 20px;
+    background: #fffdf5;
+    border: 2px dashed var(--border-color);
+    border-radius: 8px;
+    box-shadow: 3px 3px 15px rgba(0, 0, 0, 0.05);
+    transform: rotate(3deg);
+}
